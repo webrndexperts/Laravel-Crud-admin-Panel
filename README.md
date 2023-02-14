@@ -1,11 +1,12 @@
-<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
+## About Author
 
-<p align="center">
-<a href="https://travis-ci.org/laravel/framework"><img src="https://travis-ci.org/laravel/framework.svg" alt="Build Status"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/dt/laravel/framework" alt="Total Downloads"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/v/laravel/framework" alt="Latest Stable Version"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
-</p>
+The project involved the development of an admin panel for a job provider mobile application, which facilitates the extraction and storage of data from mobile app users into our database. The admin panel implements complete CRUD functionality, enabling authorized users to efficiently create, read, update, and delete records as necessary. By leveraging the power of Laravel's built-in functionality and custom coding, the admin panel provides a robust and reliable solution for managing data effectively. This approach ensures the accurate and efficient management of data from mobile applications, ultimately improving the user experience for job providers, and increasing the overall value of the application. In summary, the project represents an innovative solution to improve the management of job data, providing a foundation for further development and growth in the future.
+
+
+* 🏠 [RND Experts](https://rndexperts.com/)
+* 🚀 [LinkedIn](https://www.linkedin.com/company/rndexperts)
+* 👾 [GitHub](https://github.com/webrndexperts)
+
 
 ## About Laravel
 
