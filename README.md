@@ -1,6 +1,6 @@
 ## About Author
 
-The project involved the development of an admin panel for a job provider mobile application, which facilitates the extraction and storage of data from mobile app users into our database. The admin panel implements complete CRUD functionality, enabling authorized users to efficiently create, read, update, and delete records as necessary. By leveraging the power of Laravel's built-in functionality and custom coding, the admin panel provides a robust and reliable solution for managing data effectively. This approach ensures the accurate and efficient management of data from mobile applications, ultimately improving the user experience for job providers, and increasing the overall value of the application. In summary, the project represents an innovative solution to improve the management of job data, providing a foundation for further development and growth in the future.
+RND Experts is a team of award-winning developers, designers, and strategists located in Chandigarh, India. We are the one of Best IT company in Mohali. We are driven by passion, innovation, and the successful collaboration of our team, the clients, and the end users. Our ultimate goal is to offer best solutions that suit our client requirements and enhance the overall growth of their business.
 
 
 * 🏠 [RND Experts](https://rndexperts.com/)
